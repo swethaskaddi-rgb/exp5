@@ -1,2 +1,6 @@
 local developer change
+<<<<<<< HEAD
 second change from remote
+=======
+ 3rd change from local
+>>>>>>> 09b50f0 (added 3rd change from local)
